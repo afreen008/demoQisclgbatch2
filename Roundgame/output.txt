@@ -1,0 +1,11 @@
+// Example output:
+// t1 vs t2
+// t1 vs t3
+// t1 vs t4
+// t1 vs t5
+// t2 vs t3
+// t2 vs t4
+// t2 vs t5
+// t3 vs t4
+// t3 vs t5
+// t4 vs t5
