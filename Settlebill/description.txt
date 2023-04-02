@@ -1,0 +1,20 @@
+A program that will settle bills among the people. For test data, used the below data
+Bill 1 - Lunch
+Total Amount 2000
+Paid By Balaji
+Shared by Anand, Balaji, Chaitanya, Divya
+Bill 2 - Movie ticket
+Total Amount 1000
+Paid By Anand
+Shared by Anand, Balaji, Chaitanya, Divya
+Bill 3 - snacks (excludes Divya)
+Total Amount 750
+Paid By Chaitanya
+Shared By Anand, Balaji, Chaitanya
+The program should settle the bills among the people and print who pays how much to 
+whom 
+
+
+The program first creates three Bill objects to represent the lunch, movie ticket, and snacks bills. Each Bill object contains the name of the bill, the total amount, the name of the person who paid the bill, and a list of the people who shared the bill.
+
+The program then calculates the total amount and contribution for each person by iterating over the Bill objects. For each Bill object, the program
