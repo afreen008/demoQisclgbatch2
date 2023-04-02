@@ -1,0 +1,12 @@
+we calculate the mean and variance of sales data for 2021 and 2022,
+to compare the variability or spread of the sales data between the two years.
+
+The mean is the average value of a set of numbers,
+and it provides information about the tendency of the data.
+
+In this case, 
+calculating the mean of sales data for each year 
+and compare the average sales performance between the two years.
+
+The variance, 
+measures how much the sales data deviates from the mean. 
