@@ -1,3 +1,13 @@
+Calculate variance and variance pct given sales data of product for two years like 
+2022 and 2021
+
+Product Sales 2021 Sales 2022
+Tea       100         120
+Coffee    100         110
+Green Tea 75          100
+
+
+
 we calculate the mean and variance of sales data for 2021 and 2022,
 to compare the variability or spread of the sales data between the two years.
 
@@ -10,8 +20,8 @@ and compare the average sales performance between the two years.
 
 The variance, 
 measures how much the sales data deviates from the mean. 
-A higher variance indicates that the sales data is more spread out or variable,
-while a lower variance indicates that the data is more tightly clustered around the mean. 
+A higher variance indicates that the sales data is more spread out,
+and lower variance indicates that the data is more tightly clustered around the mean. 
 By calculating the variance for each year's sales data,
 we can compare the spread of sales performance between the two years 
 and assess whether there has been a significant change in the variability of sales.

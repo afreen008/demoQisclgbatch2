@@ -1,0 +1,16 @@
+
+Filter the products which contains the word “Tea” and calculate the total for each 
+year.
+
+Product Sales 2021 Sales 2022
+Tea       100         120
+Coffee    100         110
+Green Tea 75          100
+
+
+
+The program  demonstrates how to filter and calculate the total sales for products that contain the word "Tea" in the years 2021 and 2022.
+
+It defines two arrays for each year: one for the product names and one for the corresponding sales values. It then loops through each array and checks if the product name contains the word "Tea". If it does, the sales value is added to the total sales for that year.
+
+Finally, it prints out the total sales for each year using the printf method to format the output.
