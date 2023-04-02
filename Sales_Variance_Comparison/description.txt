@@ -10,3 +10,8 @@ and compare the average sales performance between the two years.
 
 The variance, 
 measures how much the sales data deviates from the mean. 
+A higher variance indicates that the sales data is more spread out or variable,
+while a lower variance indicates that the data is more tightly clustered around the mean. 
+By calculating the variance for each year's sales data,
+we can compare the spread of sales performance between the two years 
+and assess whether there has been a significant change in the variability of sales.
